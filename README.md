@@ -1,1 +1,1 @@
-# favorhood-redirect
+# Favorhood - Sustainable Community Web Challenge 
