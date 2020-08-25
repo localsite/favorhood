@@ -1,1 +1,5 @@
-# Favorhood - Sustainable Community Web Challenge 
+# Favorhood
+
+### Sustainable Community Web Challenge
+
+[Join in on Slack](https://favorhood.com)
